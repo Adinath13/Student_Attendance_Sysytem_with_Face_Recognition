@@ -1,0 +1,33 @@
+.footer {
+    width: 100%;
+    padding: var(--spacing-md);
+    background: var(--bg-surface);
+    backdrop-filter: blur(10px);
+    border-top: 1px solid var(--border-glass);
+    position: relative;
+    z-index: 10;
+    margin-top: auto;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.footer-text {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    margin: 0;
+}
+
+.footer-author {
+    color: var(--color-primary);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background: linear-gradient(135deg, var(--color-primary), var(--color-accent));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
