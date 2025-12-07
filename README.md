@@ -266,7 +266,7 @@ Adinath Hanumant Gore
 
 ## 📞 Support
 
-For support, email support@antigravity-attendance.com or open an issue in the repository.
+For support, email adinathhanumantgore@gmail.com or open an issue in the repository.
 
 ---
 
