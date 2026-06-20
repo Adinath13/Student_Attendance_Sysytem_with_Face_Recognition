@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 // MongoDB connection string - update this with your actual connection string
-const MONGODB_URI = 'mongodb+srv://adinathhanumantgore_db_u:<password>@cluster0.mongodb.net/attendance?retryWrites=true&w=majority';
+const MONGODB_URI = //use your own;
 
 async function checkRegisteredUsers() {
     try {
