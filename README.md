@@ -264,10 +264,6 @@ Adinath Hanumant Gore
 - MongoDB for database solution
 - All contributors and testers
 
-## 📞 Support
-
-For support, email adinathhanumantgore@gmail.com or open an issue in the repository.
-
 ---
 
 Made with ⚡ and 💜 using Antigravity Technology
