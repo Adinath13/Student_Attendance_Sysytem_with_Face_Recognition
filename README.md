@@ -81,7 +81,7 @@ npm install
 
 Create `.env` file:
 ```env
-MONGODB_URI=mongodb+srv://adinathhanumantgore_db_user:uDqYXlRKrSXpLdsY@attendanceproject.wmhtywu.mongodb.net/attendance_system?retryWrites=true&w=majority
+MONGODB_URI= //use your own
 JWT_SECRET=antigravity_attendance_secret_key_2025_secure_token
 FACE_RECOGNITION_API=http://localhost:5000
 PORT=3000
