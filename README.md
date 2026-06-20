@@ -2,6 +2,9 @@
 
 A futuristic, contactless attendance management system powered by AI face recognition with an antigravity-themed interface.
 
+THESE IS THE LINK OF PRODUCTION READY PROJECT : https://attendanceproject-3c8t.onrender.com
+NOTE:The live demo is hosted on a free-tier cloud service and may enter a sleep state during periods of inactivity. If the application does not load on the first attempt, please allow a few moments for the server to restart and refresh the page.
+
 ## ✨ Features
 
 - **🎯 Real-time Face Recognition**: Instant student identification using advanced facial recognition
