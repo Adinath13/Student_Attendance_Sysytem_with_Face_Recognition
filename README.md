@@ -269,4 +269,4 @@ Adinath Hanumant Gore
 
 ---
 
-Made with ⚡ and 💜 using Antigravity Technology
+Made with ⚡ and 💜
